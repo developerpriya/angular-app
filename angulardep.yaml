@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: angular
-          image: priyas115/nodeapp:1.0
+          image: priyas115/angular-frontend:latest
           ports:
             - containerPort: 80
 ---
